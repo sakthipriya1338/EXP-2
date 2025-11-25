@@ -68,6 +68,18 @@ Tabulation for Open Circuit Test:
 
 Tabulation for Load Test:
 
+### Observation Table
+
+| S.No. | Current (A) | Voltage (V) |
+|-------|-------------|-------------|
+| 1     | 1.2         | 220         |
+| 2     | 2.8         | 212         |
+| 3     | 3.2         | 208         |
+| 4     | 3.6         | 205         |
+| 5     | 5.5         | 200         |
+| 6     | 7.0         | 195         |
+
+
 Model graph:
 Calculation: 
 
