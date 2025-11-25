@@ -49,22 +49,24 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-$$ \begin{table}[h!] 
-\centering
-\caption{Observation Table}
-\begin{tabular}{|c|c|c|}
-\hline
-\textbf{S.No.} & \textbf{Voltage (V)} & \textbf{Current (A)} \\ \hline
-1 & 115 & 0.16 \\ \hline
-2 & 120 & 0.18 \\ \hline
-3 & 126 & 0.20 \\ \hline
-4 & 129 & 0.21 \\ \hline
-5 & 133 & 0.23 \\ \hline
-6 & 135 & 0.24 \\ \hline
-7 & 138 & 0.28 \\ \hline
-8 & 142 & 0.30 \\ \hline
-\end{tabular}
-\end{table} $$
+$$ \begin{table}[h!] $$
+$$ \centering $$
+$$ \textbf{OBSERVATION TABLE} $$
+
+$$ \begin{tabular}{|c|c|c|} $$
+$$ \hline $$
+$$ \textbf{S.No.} & \textbf{Voltage (V)} & \textbf{Current (A)} \\ \hline $$
+$$ 1 & 115 & 0.16 \\ \hline $$
+$$ 2 & 120 & 0.18 \\ \hline $$
+$$ 3 & 126 & 0.20 \\ \hline $$
+$$ 4 & 129 & 0.21 \\ \hline $$ 
+$$ 5 & 133 & 0.23 \\ \hline $$
+$$ 6 & 135 & 0.24 \\ \hline $$
+$$ 7 & 138 & 0.28 \\ \hline $$ 
+$$ 8 & 142 & 0.30 \\ \hline $$
+$$ \end{tabular} $$
+$$ \end{table} $$
+
 
 
 
