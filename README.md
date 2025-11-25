@@ -49,7 +49,8 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-\begin{table}[h!]
+$$ \begin{table}[h!] $$
+
 \centering
 \caption{Observation Table}
 \begin{tabular}{|c|c|c|}
