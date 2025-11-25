@@ -52,7 +52,6 @@ Tabulation for Open Circuit Test:
 $$ \begin{table}[h!] $$
 $$ \centering $$
 $$ \textbf{OBSERVATION TABLE} $$
-
 $$ \begin{tabular}{|c|c|c|} $$
 $$ \hline $$
 $$ \textbf{S.No.} & \textbf{Voltage (V)} & \textbf{Current (A)} \\ \hline $$
