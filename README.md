@@ -49,7 +49,6 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test:
 
-### OBSERVATION TABLE
 
 | S.No. | Voltage (V) | Current (A) |
 |-------|-------------|-------------|
@@ -68,7 +67,6 @@ Tabulation for Open Circuit Test:
 
 Tabulation for Load Test:
 
-### Observation Table
 
 | S.No. | Current (A) | Voltage (V) |
 |-------|-------------|-------------|
@@ -81,7 +79,6 @@ Tabulation for Load Test:
 
 
 Model graph:
-Calculation: 
 
 Open circuit characteristics
 
